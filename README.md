@@ -2,7 +2,7 @@
 
 # Market Segmentation of Credit Card Holders
 
-This project includes a jupyter notebook that segments customers based on a credit card holder dataset from Kaggle (using K-means clustering and PCA).
+This project includes a jupyter notebook that segments customers based on a credit card holder dataset from Kaggle (using K-means clustering and PCA). The data from this project comes from [here](https://www.kaggle.com/arjunbhasin2013/ccdata).
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/navendu-pottekkat/awesome-readme)
 
