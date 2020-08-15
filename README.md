@@ -1,12 +1,8 @@
-<!-- Add banner here -->
+![banner_image]()
 
-# Project Title
+# Market Segmentation of Credit Card Holders
 
-<!-- Add buttons here -->
-
-<!-- Describe your project in brief -->
-
-<!-- The project title should be self explanotory and try not to make it a mouthful. (Although exceptions exist- **awesome-readme-writing-guide-for-open-source-projects** - would have been a cool name)
+This project includes a jupyter notebook that segments customers based on a credit card holder dataset from Kaggle.
 
 Add a cover/banner image for your README. **Why?** Because it easily **grabs people's attention** and it **looks cool**(*duh!obviously!*).
 
