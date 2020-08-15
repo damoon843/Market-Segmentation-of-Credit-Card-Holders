@@ -1,4 +1,4 @@
-![banner_image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fspotonwifi.com%2F5-categories-restaurants-can-segment-customers-effective-marketing%2F&psig=AOvVaw07hnlslPRGTGxVZs699Xpo&ust=1597602496692000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOjLnp7rnesCFQAAAAAdAAAAABAD)
+![banner_image](/images/customers.png)
 
 # Market Segmentation of Credit Card Holders
 
